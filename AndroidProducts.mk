@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_channel.mk
+    $(LOCAL_DIR)/derp_channel.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_channel-eng \
-    aosp_channel-user \
-    aosp_channel-userdebug
+    derp_channel-eng \
+    derp_channel-user \
+    derp_channel-userdebug
