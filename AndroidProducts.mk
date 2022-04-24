@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/derp_channel.mk
+    $(LOCAL_DIR)/arrow_channel.mk
 
 COMMON_LUNCH_CHOICES := \
-    derp_channel-eng \
-    derp_channel-user \
-    derp_channel-userdebug
+    arrow_channel-eng \
+    arrow_channel-user \
+    arrow_channel-userdebug
